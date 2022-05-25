@@ -1,2 +1,3 @@
 #!/bin/bash
 echo CUSTOMIZED > /var/www/html/index.html
+pwd
